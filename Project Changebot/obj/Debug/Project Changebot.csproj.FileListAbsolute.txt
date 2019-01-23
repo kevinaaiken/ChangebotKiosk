@@ -1,0 +1,7 @@
+C:\Users\CCA030\source\kaa\Project Changebot\Project Changebot\bin\Debug\Project Changebot.exe.config
+C:\Users\CCA030\source\kaa\Project Changebot\Project Changebot\bin\Debug\Project Changebot.exe
+C:\Users\CCA030\source\kaa\Project Changebot\Project Changebot\bin\Debug\Project Changebot.pdb
+C:\Users\CCA030\source\kaa\Project Changebot\Project Changebot\obj\Debug\Project Changebot.csprojAssemblyReference.cache
+C:\Users\CCA030\source\kaa\Project Changebot\Project Changebot\obj\Debug\Project Changebot.csproj.CoreCompileInputs.cache
+C:\Users\CCA030\source\kaa\Project Changebot\Project Changebot\obj\Debug\Project Changebot.exe
+C:\Users\CCA030\source\kaa\Project Changebot\Project Changebot\obj\Debug\Project Changebot.pdb
